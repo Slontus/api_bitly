@@ -1,9 +1,9 @@
 # Links shortening with bit.ly service 
 
 Program allows you to create short links from long links
-using bit.ly service. 
+using [bitly](bit.ly) service. 
 Also it allows to monitor the quantity of clicks for your 
-short bil.ly links.
+short bitly links.
 
 ### How to install
 
@@ -15,9 +15,9 @@ pip install -r requirements.txt
 ```
 Bitly uses OAuth access token for authentication for many
 API methods. After registering in Bitly go to your profile 
-settings and chose Generic Access Token. Create **.env** file
-in the same directory with **main.py** file. Add provided 
-Access Token to **.env** file with the following format:
+settings and chose Generic Access Token. Create an **.env** file
+in the same directory with **main.py** file. Now add copied 
+Access Token to **.env** file in the following format:
 ```
 ACCESS_TOKEN = "here should be your token"
 ```
