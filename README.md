@@ -25,10 +25,10 @@ ACCESS_TOKEN = "here should be your token"
 ### An example of usage
 
 ```
->python main.py -l https://guides.github.com
+>python main.py https://guides.github.com
 Generated bitlink: bit.ly/2JHUYWm
 
->python main.py -l bit.ly/33J9g26
+>python main.py bit.ly/33J9g26
 Clicks count for bit.ly/33J9g26: 5
 ```
 
