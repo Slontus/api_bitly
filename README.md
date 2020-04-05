@@ -1,7 +1,7 @@
 # Links shortening with bit.ly service 
 
 Program allows you to create short links from long links
-using [bitly](bit.ly) service. 
+using [bitly](https://bitly.com/) service. 
 Also it allows to monitor the quantity of clicks for your 
 short bitly links.
 
@@ -35,4 +35,4 @@ Clicks count for bit.ly/33J9g26: 5
 ### Project goals
 
 The code is written for educational purposes on online-course 
-for web-developers [devman](dvmn.org).
+for web-developers [devman](https://dvmn.org).
